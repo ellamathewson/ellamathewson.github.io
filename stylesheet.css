@@ -1,0 +1,36 @@
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #C57E50;
+    margin: 0 auto;
+    display: block;
+    width: 34%;
+    float: left;
+    text-align: center;
+    font-size: 2em;
+    clear: both;
+}
+
+img {
+    display: block;
+    max-width: 30%;
+    max-height: 40%;
+    margin: 0 auto;
+    float: left;
+    padding: 1% 2%;
+    clear: both;
+}
+
+.sidebarDiv {
+    margin-top: 5em;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+.mainContentDiv {
+    width: 60%;
+    margin: 2% auto;
+    margin-left: 35%;
+    display: block;
+}
